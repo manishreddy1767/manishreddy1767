@@ -73,7 +73,7 @@
 
 ## GitHub Analytics
 
-<br><br>
+<br>
 
 <img src="https://streak-stats.demolab.com/?user=manishreddy1767&theme=tokyonight&hide_border=true" width="70%"/> </div>
 
