@@ -89,17 +89,7 @@
 
 ## Contribution Graph
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manishreddy1767&bg_color=0D1117&color=C9D1D9&line=00CDAC&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-<br>
-
-<img src="https://raw.githubusercontent.com/manishreddy1767/manishreddy1767/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
----
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=manishreddy1767&theme=tokyo-night&hide_border=true&area=true&cache_seconds=1800" width="100%"/> </div>
 
 # Featured Projects
 
