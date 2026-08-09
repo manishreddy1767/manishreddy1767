@@ -73,8 +73,6 @@
 
 ## GitHub Analytics
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=manishreddy1767&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishreddy1767&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/>
-
 <br><br>
 
 <img src="https://streak-stats.demolab.com/?user=manishreddy1767&theme=tokyonight&hide_border=true" width="70%"/> </div>
