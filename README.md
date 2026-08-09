@@ -1,29 +1,28 @@
-# Hi there, I am Manish Reddy 👋
-
 <div align="center">
 
-<a href="https://github.com/manishreddy1767">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00cdac&height=220&section=header&text=Manish%20Reddy&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20AI%20Engineer%20%7C%20Cloud%20%26%20Generative%20AI&descAlignY=58&descSize=18&descColor=00cdac" width="100%"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:003B35,100:00CDAC&height=230&section=header&text=Manish%20Reddy&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20AI%20Engineer%20%7C%20Cloud%20%26%20Generative%20AI&descAlignY=58&descSize=18&descColor=FFFFFF" width="100%"/>
 
 <br>
 
 <a href="mailto:manishreddy1767@gmail.com">
-  <img src="https://img.shields.io/badge/Email-00cdac?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-00CDAC?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://linkedin.com/in/manish-reddy-70ab3b34a">
-  <img src="https://img.shields.io/badge/LinkedIn-00cdac?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-00CDAC?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://manish-reddy.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-00cdac?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-00CDAC?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://github.com/manishreddy1767">
-  <img src="https://img.shields.io/badge/GitHub-00cdac?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-00CDAC?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00CDAC&center=true&vCenter=true&width=650&lines=Aspiring+AI%2FML+Engineer;Exploring+Generative+AI+%26+LLMs;Building+RAG+%26+Multimodal+AI+Systems;Learning+Cloud+%26+DevOps;Turning+Ideas+Into+Intelligent+Products"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00CDAC&center=true&vCenter=true&width=700&lines=Aspiring+AI%2FML+Engineer;Exploring+Generative+AI+%26+LLMs;Building+RAG+%26+Multimodal+AI+Systems;Learning+Cloud+%26+DevOps;Turning+Ideas+Into+Intelligent+Products"/>
 
 </div>
 
@@ -33,7 +32,7 @@
 
 <table>
 <tr>
-<td width="68%" valign="top">
+<td width="70%" valign="top">
 
 * AI/ML Engineer in progress, focused on building practical intelligent systems.
 * Currently developing skills in **Generative AI, RAG, LLMs, and Multimodal AI**.
@@ -45,9 +44,9 @@
 
 </td>
 
-<td width="32%" align="right" valign="middle">
+<td width="30%" align="right">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 
 </td>
 </tr>
@@ -69,9 +68,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=manishreddy1767&show_icons=true&theme=tokyonight&hide_border=true&title_color=00cdac&icon_color=00cdac&text_color=c9d1d9&bg_color=0d1117" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=manishreddy1767&show_icons=true&theme=tokyonight&hide_border=true&title_color=00CDAC&icon_color=00CDAC&text_color=C9D1D9&bg_color=0D1117" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishreddy1767&layout=compact&theme=tokyonight&hide_border=true&title_color=00cdac&text_color=c9d1d9&bg_color=0d1117" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishreddy1767&layout=compact&theme=tokyonight&hide_border=true&title_color=00CDAC&text_color=C9D1D9&bg_color=0D1117" height="180"/>
 
 <br><br>
 
@@ -85,7 +84,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manishreddy1767&bg_color=0d1117&color=c9d1d9&line=00cdac&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manishreddy1767&bg_color=0D1117&color=C9D1D9&line=00CDAC&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 <br>
 
@@ -108,8 +107,10 @@ A **RAG-based enterprise knowledge assistant** designed to retrieve information 
 
 **Tech:** `FastAPI` · `React` · `RAG` · `LLMs`
 
+<br>
+
 <a href="https://github.com/manishreddy1767/AI-COMPANY-BRAIN">
-<img src="https://img.shields.io/badge/View%20Project-00cdac?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20Project-00CDAC?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -122,8 +123,10 @@ An **AI-powered WhatsApp notification router** that uses multimodal AI to determ
 
 **Tech:** `Python` · `LLMs` · `OCR` · `Whisper`
 
+<br>
+
 <a href="https://github.com/manishreddy1767">
-<img src="https://img.shields.io/badge/View%20Project-00cdac?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20Project-00CDAC?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -140,8 +143,10 @@ A full-stack event platform featuring **authentication, QR-based digital tickets
 
 **Tech:** `Node.js` · `Express` · `EJS` · `MongoDB`
 
+<br>
+
 <a href="https://github.com/manishreddy1767">
-<img src="https://img.shields.io/badge/View%20Project-00cdac?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20Project-00CDAC?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -154,8 +159,10 @@ An AI-powered security system focused on **source-code vulnerability detection**
 
 **Tech:** `Python` · `GNNs` · `LLMs` · `DevSecOps`
 
+<br>
+
 <a href="https://github.com/manishreddy1767">
-<img src="https://img.shields.io/badge/View%20Project-00cdac?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20Project-00CDAC?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -169,11 +176,11 @@ An AI-powered security system focused on **source-code vulnerability detection**
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-00cdac?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/System%20Design-00cdac?style=for-the-badge&logo=diagrams.net&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-00cdac?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-00cdac?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/DevOps-00cdac?style=for-the-badge&logo=gitlab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-00CDAC?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/System%20Design-00CDAC?style=for-the-badge&logo=diagramsdotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-00CDAC?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-00CDAC?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/DevOps-00CDAC?style=for-the-badge&logo=gitlab&logoColor=white"/>
 
 </div>
 
@@ -183,9 +190,9 @@ An AI-powered security system focused on **source-code vulnerability detection**
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Pull%20Shark-00cdac?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Problem%20Solver-00cdac?style=for-the-badge&logo=leetcode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Open%20Source%20Contributor-00cdac?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pull%20Shark-00CDAC?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Problem%20Solver-00CDAC?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open%20Source%20Contributor-00CDAC?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
 
 </div>
 
@@ -196,24 +203,24 @@ An AI-powered security system focused on **source-code vulnerability detection**
 <div align="center">
 
 <a href="https://github.com/manishreddy1767">
-<img src="https://img.shields.io/badge/GitHub-00cdac?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-00CDAC?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://linkedin.com/in/manish-reddy-70ab3b34a">
-<img src="https://img.shields.io/badge/LinkedIn-00cdac?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-00CDAC?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://manish-reddy.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-00cdac?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-00CDAC?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="mailto:manishreddy1767@gmail.com">
-<img src="https://img.shields.io/badge/Email-00cdac?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-00CDAC?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
-**Hyderabad, India 🇮🇳**
+📍 **Hyderabad, India 🇮🇳**
 
 </div>
 
@@ -221,7 +228,7 @@ An AI-powered security system focused on **source-code vulnerability detection**
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00cdac,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00CDAC,50:003B35,100:0D1117&height=140&section=footer" width="100%"/>
 
 ### Thanks for visiting my profile.
 
