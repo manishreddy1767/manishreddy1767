@@ -35,29 +35,35 @@
 
 <table>
 <tr>
-<td width="70%" valign="top">
+<td width="65%" valign="top">
 
-**Aspiring AI/ML Engineer** • B.Tech CSE (2024–2028) at Vardhaman College of Engineering, Hyderabad • CGPA: 9.03/10
+**Aspiring AI/ML Engineer** • B.Tech CSE (2024–2028) at **Vardhaman College of Engineering, Hyderabad** • **CGPA: 9.03/10**
 
-I build practical AI/ML systems — from vulnerability detection using Graph Neural Networks to RAG-based enterprise knowledge assistants and multimodal notification prioritization. My focus spans:
+I build practical AI/ML systems — from vulnerability detection using Graph Neural Networks to RAG-based enterprise knowledge assistants and multimodal notification prioritization.
 
-- **Machine Learning & Deep Learning** — PyTorch, Scikit-learn, neural architectures
-- **Generative AI & LLMs** — RAG systems, embeddings, semantic search, local models
-- **NLP & Multimodal AI** — Text classification, document understanding, embeddings
-- **Graph ML & Code Intelligence** — Code representation, vulnerability detection, GNNs
-- **AI Application Development** — FastAPI, React, production-ready AI services
+### My focus
 
-I practice DSA daily (Python, C++, Java) and enjoy turning research ideas into working systems. Open to **AI/ML internships, research collaborations, and impactful projects**.
+- 🧠 **Machine Learning & Deep Learning** — PyTorch, Scikit-learn, neural architectures
+- 🤖 **Generative AI & LLMs** — RAG, embeddings, semantic search, local models
+- 📝 **NLP & Multimodal AI** — text classification, document understanding
+- 🕸️ **Graph ML & Code Intelligence** — code representation, vulnerability detection, GNNs
+- 🌐 **AI Application Development** — FastAPI, React, AI-powered services
+
+I practice **DSA** regularly using Python, C++, and Java, and enjoy turning research ideas into working systems.
+
+Open to **AI/ML internships, research collaborations, hackathons, and impactful projects.**
 
 </td>
-<td width="30%" align="center">
 
-<img src="./assets/about-me-animation.gif" width="220" alt="AI coding animation"/>
+<td width="35%" align="center" valign="middle">
+
+<img src="./assets/Programmer.gif"
+     width="280"
+     alt="Animated programmer"/>
 
 </td>
 </tr>
 </table>
-
 ---
 
 <!-- =========================================================
