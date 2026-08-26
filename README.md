@@ -219,20 +219,10 @@ Open to **AI/ML internships, research collaborations, hackathons, and impactful 
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/manishreddy1767/manishreddy1767/output/github-contribution-grid-snake-dark.svg">
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/manishreddy1767/manishreddy1767/output/github-contribution-grid-snake.svg">
-
-  <img
-    src="https://raw.githubusercontent.com/manishreddy1767/manishreddy1767/output/github-contribution-grid-snake.svg"
-    alt="GitHub contribution snake animation"
-    width="100%">
-</picture>
+<img
+  src="https://raw.githubusercontent.com/manishreddy1767/manishreddy1767/output/github-contribution-grid-snake-dark.svg"
+  alt="GitHub contribution snake animation"
+  width="100%">
 
 </div>
 
@@ -244,8 +234,6 @@ Open to **AI/ML internships, research collaborations, hackathons, and impactful 
 Generated automatically using **GitHub Actions** and published to the `output` branch.
 
 </details>
-
----
 
 <!-- =========================================================
      TERMINAL
