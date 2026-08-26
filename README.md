@@ -52,7 +52,7 @@ I practice DSA daily (Python, C++, Java) and enjoy turning research ideas into w
 </td>
 <td width="30%" align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW14bG1qYzF1YzB4dG40dG40dG40dG40dG40dG40dG40dG40dG40dg/giphy.gif" width="220" alt="AI coding animation"/>
+<img src="./assets/ai-network.gif" width="220" alt="AI coding animation"/>
 
 </td>
 </tr>
@@ -231,7 +231,7 @@ I practice DSA daily (Python, C++, Java) and enjoy turning research ideas into w
 
 <div align="center">
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/manishreddy1767/manishreddy1767/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](./output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -252,9 +252,7 @@ Generated automatically via **GitHub Actions** — runs daily, commits the updat
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manishreddy1767&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&disable_animations=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manishreddy1767&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
@@ -267,31 +265,11 @@ Generated automatically via **GitHub Actions** — runs daily, commits the updat
 
 <div align="center">
 
-```bash
-$ whoami
-manish@ai-engineer-in-progress
-
-$ ./build --target intelligent-systems
-[████████████████████] 100% — ML • DL • GenAI • RAG • NLP
-
-$ ./deploy --env production
-🚀 CodeSentinel AI  →  Vulnerability Detection (GNNs)
-🧠 PingSense        →  Notification Prioritization (Multimodal)
-📚 AI Company Brain →  Enterprise RAG Assistant
-
-$ ./learn --next
-Graph ML • Agentic AI • LLM Fine-tuning • AI Safety
-
-$ ./connect --network
-GitHub:  github.com/manishreddy1767
-LinkedIn: linkedin.com/in/manish-reddy-70ab3b34
-Portfolio: manish-reddy.netlify.app
-Email: manishreddy1767@gmail.com
-```
+<img src="./assets/terminal-banner.gif" alt="Animated developer terminal" width="90%"/>
 
 </div>
 
----
+<br/>
 
 <!-- =========================================================
      FOOTER
