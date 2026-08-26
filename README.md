@@ -71,69 +71,29 @@ Open to **AI/ML internships, research collaborations, hackathons, and impactful 
      ========================================================= -->
 ## 🛠️ Skills & Technologies
 
-<details open>
-<summary><b>🧠 AI / Machine Learning</b></summary>
-<br>
+### 🧠 AI / Machine Learning
 
-`Python` `PyTorch` `Scikit-learn` `NumPy` `Pandas` `Matplotlib` `Transformers` `Sentence-Transformers` `FAISS` `Torch`
+`Python` `PyTorch` `Scikit-learn` `NumPy` `Pandas` `Matplotlib`
 
-</details>
+### 🤖 Generative AI
 
-<details open>
-<summary><b>🤖 Generative AI / LLMs</b></summary>
-<br>
+`LLMs` `RAG` `Embeddings` `Semantic Search` `NLP` `Sentence-Transformers` `FAISS` `Ollama`
 
-`LLMs` `RAG` `Embeddings` `Semantic Search` `NLP` `Multimodal AI` `Local LLMs` `Claude API` `Hugging Face` `Vector Databases` `Context-Aware AI`
+### 🕸️ Graph ML / Code Intelligence
 
-</details>
+`Graph Neural Networks` `GraphSAGE` `PyTorch Geometric` `NetworkX` `Tree-sitter` `Source Code Analysis`
 
-<details open>
-<summary><b>🕸️ Graph ML / Code Intelligence</b></summary>
-<br>
+### 💻 Programming
 
-`Graph Neural Networks` `Graph-based ML` `Code Representation` `Source Code Analysis` `Vulnerability Detection` `NetworkX` `PyTorch Geometric` `PrimeVul Dataset` `Repository-Aware Splitting`
+`Python` `C++` `Java` `C` `SQL` `JavaScript`
 
-</details>
+### 🌐 AI Application Development
 
-<details open>
-<summary><b>📊 Data Science</b></summary>
-<br>
+`FastAPI` `React` `Streamlit` `REST APIs` `Vite`
 
-`NumPy` `Pandas` `Matplotlib` `Data Preprocessing` `Data Cleaning` `Exploratory Data Analysis` `Dataset Validation` `Model Evaluation` `Deduplication`
+### 🗄️ Databases & Tools
 
-</details>
-
-<details open>
-<summary><b>💻 Programming Languages</b></summary>
-<br>
-
-`Python` `C++` `Java` `C` `SQL` `JavaScript` `TypeScript` `Shell`
-
-</details>
-
-<details open>
-<summary><b>🌐 AI Application Development</b></summary>
-<br>
-
-`FastAPI` `React` `Streamlit` `REST APIs` `Python Backend` `HTML` `CSS` `Tailwind CSS` `Vite` `Framer Motion`
-
-</details>
-
-<details open>
-<summary><b>🗄️ Databases</b></summary>
-<br>
-
-`MySQL` `SQLite` `FAISS (Vector DB)`
-
-</details>
-
-<details open>
-<summary><b>🛠️ Developer Tools</b></summary>
-<br>
-
-`Git` `GitHub` `VS Code` `Jupyter Notebook` `Google Colab` `Linux` `Windows` `Docker` `GitHub Actions`
-
-</details>
+`MySQL` `SQLite` `Git` `GitHub` `VS Code` `Jupyter Notebook` `Google Colab` `Linux`
 
 ---
 
@@ -237,19 +197,19 @@ Open to **AI/ML internships, research collaborations, hackathons, and impactful 
 
 <div align="center">
 
-![GitHub Contribution Snake](./output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/manishreddy1767/manishreddy1767/output/dist/github-contribution-grid-snake-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/manishreddy1767/manishreddy1767/output/dist/github-contribution-grid-snake.svg">
+
+  <img src="https://raw.githubusercontent.com/manishreddy1767/manishreddy1767/output/dist/github-contribution-grid-snake.svg"
+       alt="GitHub contribution snake animation"
+       width="100%">
+</picture>
 
 </div>
-
-<details>
-<summary><b>How this works</b></summary>
-<br>
-
-Generated automatically via **GitHub Actions** — runs daily, commits the updated SVG to the `output` branch, and renders here via raw GitHub URL. No external APIs, no broken images.
-
-</details>
-
----
 
 <!-- =========================================================
      GITHUB STATS (RELIABLE, REPO-HOSTED)
