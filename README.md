@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=1200&color=00D4AA&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer+in+Progress;Building+Intelligent+Systems;Machine+Learning+%E2%80%A2+Deep+Learning+%E2%80%A2+GenAI;Python+%E2%80%A2+PyTorch+%E2%80%A2+LLMs+%E2%80%A2+RAG+%E2%80%A2+NLP" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=1200&color=00D4AA&center=true&vCenter=true&width=800&lines=Aspiring+AI%2FML+Engineer;Building+Intelligent+Systems;Machine+Learning+%E2%80%A2+Deep+Learning+%E2%80%A2+GenAI;Python+%E2%80%A2+PyTorch+%E2%80%A2+LLMs+%E2%80%A2+RAG+%E2%80%A2+NLP" alt="Typing animation"/>
 
 <br><br>
 
