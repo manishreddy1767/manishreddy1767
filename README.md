@@ -52,7 +52,7 @@ I practice DSA daily (Python, C++, Java) and enjoy turning research ideas into w
 </td>
 <td width="30%" align="center">
 
-<img src="./assets/ai-network.gif" width="220" alt="AI coding animation"/>
+<img src="./assets/about-me-animation.gif" width="220" alt="AI coding animation"/>
 
 </td>
 </tr>
