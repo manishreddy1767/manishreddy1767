@@ -1,6 +1,7 @@
 <!-- =========================================================
-     HERO BANNER SECTION
+     HERO BANNER
      ========================================================= -->
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,50:1a1a2e,100:16213e&height=220&section=header&text=Manish%20Reddy&fontSize=48&fontColor=00d4aa&fontAlignY=45&font=Orbitron&fontWeight=700&animation=fadeIn" width="100%"/>
@@ -14,12 +15,15 @@
 <a href="https://github.com/manishreddy1767">
   <img src="https://img.shields.io/badge/GitHub-00D4AA?style=for-the-badge&logo=github&logoColor=0f0f23" alt="GitHub"/>
 </a>
+
 <a href="https://linkedin.com/in/manish-reddy-70ab3b34">
   <img src="https://img.shields.io/badge/LinkedIn-00D4AA?style=for-the-badge&logo=linkedin&logoColor=0f0f23" alt="LinkedIn"/>
 </a>
+
 <a href="https://manish-reddy.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-00D4AA?style=for-the-badge&logo=google-chrome&logoColor=0f0f23" alt="Portfolio"/>
 </a>
+
 <a href="mailto:manishreddy1767@gmail.com">
   <img src="https://img.shields.io/badge/Email-00D4AA?style=for-the-badge&logo=gmail&logoColor=0f0f23" alt="Email"/>
 </a>
@@ -31,17 +35,19 @@
 <!-- =========================================================
      ABOUT ME
      ========================================================= -->
+
 ## 👋 About Me
 
 <table>
 <tr>
+
 <td width="65%" valign="top">
 
 **Aspiring AI/ML Engineer** • B.Tech CSE (2024–2028) at **Vardhaman College of Engineering, Hyderabad** • **CGPA: 9.03/10**
 
 I build practical AI/ML systems — from vulnerability detection using Graph Neural Networks to RAG-based enterprise knowledge assistants and multimodal notification prioritization.
 
-### My focus
+### My Focus
 
 - 🧠 **Machine Learning & Deep Learning** — PyTorch, Scikit-learn, neural architectures
 - 🤖 **Generative AI & LLMs** — RAG, embeddings, semantic search, local models
@@ -62,13 +68,16 @@ Open to **AI/ML internships, research collaborations, hackathons, and impactful 
      alt="Animated programmer"/>
 
 </td>
+
 </tr>
 </table>
+
 ---
 
 <!-- =========================================================
      SKILLS & TECHNOLOGIES
      ========================================================= -->
+
 ## 🛠️ Skills & Technologies
 
 ### 🧠 AI / Machine Learning
@@ -77,11 +86,11 @@ Open to **AI/ML internships, research collaborations, hackathons, and impactful 
 
 ### 🤖 Generative AI
 
-`LLMs` `RAG` `Embeddings` `Semantic Search` `NLP` `Sentence-Transformers` `FAISS` `Ollama`
+`LLMs` `RAG` `Embeddings` `Semantic Search` `NLP` `FAISS` `Ollama`
 
-### 🕸️ Graph ML / Code Intelligence
+### 🕸️ Graph ML & Code Intelligence
 
-`Graph Neural Networks` `GraphSAGE` `PyTorch Geometric` `NetworkX` `Tree-sitter` `Source Code Analysis`
+`Graph Neural Networks` `PyTorch Geometric` `NetworkX` `Source Code Analysis` `Vulnerability Detection`
 
 ### 💻 Programming
 
@@ -100,78 +109,89 @@ Open to **AI/ML internships, research collaborations, hackathons, and impactful 
 <!-- =========================================================
      FEATURED PROJECTS
      ========================================================= -->
+
 ## 🚀 Featured Projects
 
 ### 🛡️ CodeSentinel AI
+
 **AI-powered source-code vulnerability detection using Graph Neural Networks**
 
 | | |
 |---|---|
 | **Problem** | Detect security vulnerabilities in source code at scale |
-| **Solution** | Graph-based code representation with GNNs; PrimeVul dataset preprocessing, deduplication, repository-aware splitting, validation |
-| **Key Technologies** | `Python` `PyTorch` `PyTorch Geometric` `NetworkX` `GNNs` `Transformers` `PrimeVul` |
-| **Repo** | [github.com/manishreddy1767/codesentinel-ai](https://github.com/manishreddy1767/codesentinel-ai) |
+| **Solution** | Graph-based code representation with GNNs, PrimeVul preprocessing, deduplication, repository-aware splitting and validation |
+| **Key Technologies** | `Python` `PyTorch` `PyTorch Geometric` `NetworkX` `GNNs` `PrimeVul` |
+| **Repo** | [GitHub Repository](https://github.com/manishreddy1767/codesentinel-ai) |
 
 ---
 
 ### 🧠 PingSense
-**AI-powered message & notification prioritization system**
+
+**AI-powered message and notification prioritization system**
 
 | | |
 |---|---|
 | **Problem** | Reduce notification overload by intelligently classifying message urgency |
-| **Solution** | Multimodal AI pipeline: text classification, semantic embeddings, confidence scoring, contextual understanding, intelligent routing |
-| **Key Technologies** | `Python` `Streamlit` `PyTorch` `Sentence-Transformers` `FAISS` `Scikit-learn` `Claude API` `Pandas` `Matplotlib` |
-| **Repo** | [github.com/manishreddy1767/PingSense](https://github.com/manishreddy1767/PingSense) |
+| **Solution** | Multimodal AI pipeline using text classification, semantic embeddings, confidence scoring and contextual understanding |
+| **Key Technologies** | `Python` `PyTorch` `Sentence-Transformers` `FAISS` `Scikit-learn` `Streamlit` |
+| **Repo** | [GitHub Repository](https://github.com/manishreddy1767/PingSense) |
 
 ---
 
 ### 📚 AI Company Brain
+
 **Private/local RAG-based enterprise knowledge assistant**
 
 | | |
 |---|---|
 | **Problem** | Enable secure, citation-backed Q&A over organizational documents |
-| **Solution** | Full-stack RAG system: document ingestion, embedding generation, semantic search, local LLM inference, role-based access, source citations |
-| **Key Technologies** | `FastAPI` `React` `RAG` `LLMs` `Embeddings` `Semantic Search` `Vector DB` `Tailwind CSS` `Vite` |
-| **Repo** | [github.com/manishreddy1767/AI-COMPANY-BRAIN](https://github.com/manishreddy1767/AI-COMPANY-BRAIN) |
+| **Solution** | Document ingestion, embeddings, semantic search, local LLM inference, role-based access and source citations |
+| **Key Technologies** | `FastAPI` `React` `RAG` `LLMs` `Embeddings` `Semantic Search` `Vector DB` `Vite` |
+| **Repo** | [GitHub Repository](https://github.com/manishreddy1767/AI-COMPANY-BRAIN) |
 
 ---
 
 ### 🎟️ Event Ticketing System
+
 **Full-stack event booking platform**
 
 | | |
 |---|---|
-| **Problem** | End-to-end event management with secure ticketing |
-| **Solution** | Authentication, QR-based digital tickets, event management, analytics dashboard |
+| **Problem** | End-to-end event management and digital ticketing |
+| **Solution** | Authentication, QR-based tickets, event management and analytics dashboard |
 | **Key Technologies** | `Node.js` `Express` `EJS` `MongoDB` `JavaScript` |
-| **Repo** | [github.com/manishreddy1767/event-ticketing-system](https://github.com/manishreddy1767/event-ticketing-system) |
+| **Repo** | [GitHub Repository](https://github.com/manishreddy1767/event-ticketing-system) |
 
 ---
 
 <!-- =========================================================
-     DSA / PROBLEM SOLVING
+     DSA
      ========================================================= -->
+
 ## 🧩 DSA & Problem Solving
 
 <details open>
+
 <summary><b>📈 LeetCode Practice</b> — 376+ Solutions</summary>
+
 <br>
 
 **Languages:** `Python` `C++` `Java`
 
 **Topics Covered:**
-- Arrays & Hash Tables (60+)
-- Two Pointers & Sliding Window (25+)
-- Binary Search (7+)
-- Linked Lists (7+)
-- Dynamic Programming (7+)
-- Strings (20+)
-- Trees & Graphs
-- Greedy, Math, Bit Manipulation, Game Theory
 
-**Repo:** [github.com/manishreddy1767/Leetcode-Solutions](https://github.com/manishreddy1767/Leetcode-Solutions)
+- Arrays & Hash Tables
+- Two Pointers & Sliding Window
+- Binary Search
+- Linked Lists
+- Dynamic Programming
+- Strings
+- Trees & Graphs
+- Greedy & Math
+- Bit Manipulation
+- Game Theory
+
+**Repository:** [LeetCode Solutions](https://github.com/manishreddy1767/Leetcode-Solutions)
 
 </details>
 
@@ -180,11 +200,12 @@ Open to **AI/ML internships, research collaborations, hackathons, and impactful 
 <!-- =========================================================
      CURRENTLY EXPLORING
      ========================================================= -->
+
 ## 🚀 Currently Exploring
 
 <div align="center">
 
-`Machine Learning` `Deep Learning` `Generative AI` `LLM Applications` `RAG Systems` `NLP` `Multimodal AI` `Graph Neural Networks` `AI-Powered Developer Tools` `DSA & Problem Solving` `Agentic AI` `Code Intelligence`
+`Machine Learning` · `Deep Learning` · `Generative AI` · `LLM Applications` · `RAG` · `NLP` · `Multimodal AI` · `Graph Neural Networks` · `Agentic AI` · `Code Intelligence` · `DSA`
 
 </div>
 
@@ -193,68 +214,77 @@ Open to **AI/ML internships, research collaborations, hackathons, and impactful 
 <!-- =========================================================
      GITHUB CONTRIBUTION SNAKE
      ========================================================= -->
+
 ## 🐍 Contribution Activity
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/manishreddy1767/manishreddy1767/output/dist/github-contribution-grid-snake-dark.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/manishreddy1767/manishreddy1767/output/github-contribution-grid-snake-dark.svg">
 
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/manishreddy1767/manishreddy1767/output/dist/github-contribution-grid-snake.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/manishreddy1767/manishreddy1767/output/github-contribution-grid-snake.svg">
 
-  <img src="https://raw.githubusercontent.com/manishreddy1767/manishreddy1767/output/dist/github-contribution-grid-snake.svg"
-       alt="GitHub contribution snake animation"
-       width="100%">
+  <img
+    src="https://raw.githubusercontent.com/manishreddy1767/manishreddy1767/output/github-contribution-grid-snake.svg"
+    alt="GitHub contribution snake animation"
+    width="100%">
 </picture>
 
 </div>
 
-<!-- =========================================================
-     GITHUB STATS (RELIABLE, REPO-HOSTED)
-     ========================================================= -->
-## 📊 GitHub Overview
+<details>
+<summary><b>How this works</b></summary>
 
-<div align="center">
+<br>
 
+Generated automatically using **GitHub Actions** and published to the `output` branch.
 
-
-</div>
+</details>
 
 ---
 
 <!-- =========================================================
-     FUN / INTERACTIVE ELEMENT
+     TERMINAL
      ========================================================= -->
+
 ## 🎮 Terminal
 
 <div align="center">
 
-<img src="./assets/terminal-banner.gif" alt="Animated developer terminal" width="90%"/>
+<img src="./assets/terminal-banner.gif"
+     alt="Animated developer terminal"
+     width="90%"/>
 
 </div>
 
 <br/>
 
+---
+
 <!-- =========================================================
      FOOTER
      ========================================================= -->
-<div align="center">
 
----
+<div align="center">
 
 ### 🤝 Let's Connect
 
 <a href="https://github.com/manishreddy1767">
   <img src="https://img.shields.io/badge/GitHub-00D4AA?style=for-the-badge&logo=github&logoColor=0f0f23" alt="GitHub"/>
 </a>
+
 <a href="https://linkedin.com/in/manish-reddy-70ab3b34">
   <img src="https://img.shields.io/badge/LinkedIn-00D4AA?style=for-the-badge&logo=linkedin&logoColor=0f0f23" alt="LinkedIn"/>
 </a>
+
 <a href="https://manish-reddy.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-00D4AA?style=for-the-badge&logo=google-chrome&logoColor=0f0f23" alt="Portfolio"/>
 </a>
+
 <a href="mailto:manishreddy1767@gmail.com">
   <img src="https://img.shields.io/badge/Email-00D4AA?style=for-the-badge&logo=gmail&logoColor=0f0f23" alt="Email"/>
 </a>
@@ -263,7 +293,7 @@ Open to **AI/ML internships, research collaborations, hackathons, and impactful 
 
 📍 **Hyderabad, India** 🇮🇳
 
----
+<br><br>
 
 **Building today. Learning continuously. Engineering the future with AI.**
 
